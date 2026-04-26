@@ -67,5 +67,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=5290F7&center=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+%E2%80%94+John+Johnson" alt="quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=5290F7&center=true&width=600&lines=%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22+-+John+Johnson" alt="quote" />
 </p>
