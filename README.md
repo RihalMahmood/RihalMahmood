@@ -23,7 +23,7 @@
 <a href="mailto:rihalmahmood@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
-<a href="rihalmahmood.vercel.app">
+<a href="https://rihalmahmood.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
